@@ -1,7 +1,7 @@
 # Nightfox colors for Tmux
 # Style: dayfox
 # Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/dayfox/nightfox_tmux.tmux
-set -g mode-style "fg=#e4dcd4,bg=#643f61"
+# set -g mode-style "fg=#e4dcd4,bg=#643f61"
 set -g message-style "fg=#e4dcd4,bg=#643f61"
 set -g message-command-style "fg=#e4dcd4,bg=#643f61"
 set -g pane-border-style "fg=#643f61"
